@@ -2,115 +2,127 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: 段韬
+  given: 韬
+  family: 段
   alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  pronunciation: 'Duan Tao'  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - Msc
+  - PM
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: 数字化转型研究员 | 产品经理 | HCI 研究者
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+我是一名拥有人机交互 (HCI) 学术背景的产品经理，现供职于中国信通院西部分院 数创中心。
+在政务数字化领域，我擅长在复杂业务环境中落地产品方案，曾主导重庆 **8个 省区级政府项目** 的交付，政务系统用户覆盖率超 80%。
+在国际化协同方面，我曾作为部属事业单位国际化人才，核心支撑 **2024 工信部-国际电信联盟 (ITU) 高级别研讨会**，协助坦桑尼亚信息部部长与 ITU 官员的对接工作。
+工作之余，我是网易云音乐人，也是一名文学爱好者，热衷于小说写作与文学创作。
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: CAICT中国信通院西部分院
+    url: https://cqcaict.ac.cn/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: duantao1996@163.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/StevenDuan96
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+    url: https://www.linkedin.com/in/tao-duan-874373256/
+  - icon: brands/weixin
+   url: #
+   
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - 数字化产品设计
+  - 人机交互研究
+  - 人工智能伦理研究
+  - 文学创作&音乐创作
 
+# 教育经历：替换掉了斯坦福，换成了纽卡斯尔
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: 人机交互硕士 (MSc in Human-Computer Interaction)
+    institution: 英国纽卡斯尔大学 (Newcastle University)
+    start: 2022-09-01 # 【请确认】大概时间，如果是1年制应该是17-18或18-19
+    end: 2023-11-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      核心课程：人机交互研究方法、用户体验设计、实物原型设计、系统与社会学。
+      核心课程：为视障人士优化导盲杖，负责UX原型与实体原型设计。群体孤独感与数字产品设计介入。
     button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      text: 查看学位证书
+      url: # 
+      icon: hero/document
+- degree: 软件工程学士 (BEng Software Engineering)
+    institution: 平顶山学院
+    start: 2014-09-01
+    end: 2018-06-30
+    summary: |
+      * **GPA**: 3.0
+      * **社团**: 校团委编辑部部长。
 
+# -----------------------------------------------------------------------------
+# 工作经历 (已隐藏早期公司，只保留高校和信通院)
+# -----------------------------------------------------------------------------
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: 数创中心产品经理
+    org: 中国信通院西部分院
+    start: 2024-07-01
+    end: 
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      **方向：政务数字化与企业数字化转型**
+      * 负责数字化转型系统的全生命周期管理，推动政府及大型企业项目落地。
+      * **重点项目**: 
+        * **数字重庆**: 牵头参与省级/市级项目3项。
+        * **亩均论英雄改革**: 省部级重点工程。
+        * **南山治堵交通治理**: 区级交通优化项目。
+       * **高新区高新解忧综合场景**: 区级群众综合场景的打造。
 
+  
+  - role: 计算机讲师
+    org: 重庆人文科技学院
+    start: 2024-01-01
+    end: 2024-07-31
+    summary: |
+      * 主导《人工智能通识》与《人机交互》核心课程的教学与改革。
+      * 推动跨学科知识融合，指导学生进行AI项目实践。
+
+# -----------------------------------------------------------------------------
+# 技能栈 (Skills)：提炼了你的核心能力
+# -----------------------------------------------------------------------------
 skills:
-  - name: Technical Skills
+  - name: 核心竞争力 (Core Competencies)
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: 政务数字化转型 (G-End Strategy)
+        level: 5  # 对应你的8个项目和90%覆盖率
+      - label: 复杂系统架构设计 (Complex System Design)
+        level: 5  # 对应你的复杂环境落地能力
+      - label: 国际化协同与外事支撑 (Global Liaison)
+        level: 4  # 对应你的ITU会议经验和留学背景
+
+  - name: 领域创新 (Domain & Innovation)
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: AI 通识课程研发 (AI Curriculum Dev)
+        level: 4  # 对应你的高校教学经历
+      - label: 人机交互研究 (HCI Research)
+        level: 5  # 你的学术老本行
+      - label: 跨部门资源整合
         level: 4
 
+  - name: 数据与技术洞察 (Data & Tech)
+    items:
+      - label: 数据驱动决策 (Data-Driven Decision Making)
+        level: 4  # 替换掉 SQL/Tableau，强调决策能力
+      - label: AIGC 应用与人机协作
+        level: 4  # 结合你讲授AI课程的经历
+
+
+# 语言能力保留
 languages:
-  - name: English
+  - name: 中文 (Chinese)
     level: 5
     label: Native
-  - name: Spanish
+  - name: 英语 (English)
     level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+    label: Professional (Academic & Business)
