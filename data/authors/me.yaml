@@ -36,8 +36,8 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tao-duan-874373256/
   - icon: brands/weixin
-   url: #
-   
+    url: '#'
+
 interests:
   - 数字化产品设计
   - 人机交互研究
@@ -54,9 +54,9 @@ education:
       核心课程：为视障人士优化导盲杖，负责UX原型与实体原型设计。群体孤独感与数字产品设计介入。
     button:
       text: 查看学位证书
-      url: # 
+      url: '#'
       icon: hero/document
-- degree: 软件工程学士 
+  - degree: 软件工程学士
     institution: 平顶山学院
     start: 2014-09-01
     end: 2018-06-30

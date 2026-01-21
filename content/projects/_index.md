@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: '项目经历'
 date: 2024-05-19
 type: landing
 
@@ -11,16 +11,16 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: 精选项目
+      text: 以下是我参与的核心项目，涵盖智慧城市、基层治理、工业大数据等领域。
       filters:
         folders:
           - projects
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 3
-      show_date: false
+      show_date: true
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---
