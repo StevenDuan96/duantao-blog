@@ -17,9 +17,9 @@ role: 数字化转型研究员 | 产品经理 | HCI 研究者
 bio: |
   我是一名拥有人机交互 (HCI) 学术背景的产品经理，现供职于中国信通院西部分院 数创中心。
 
-  在政务数字化领域，我擅长在复杂业务环境中落地产品方案，曾主导重庆 **8个 省区级政府项目** 的交付，政务系统用户覆盖率超 90%。
+  在政务数字化领域，我擅长在复杂业务环境中落地产品方案，曾主导数字重庆 5个 省区级政府项目 的交付，政务系统用户覆盖率超 90%。
 
-  在国际化协同方面，我曾作为部属事业单位国际化人才，核心支撑 **2024 工信部-国际电信联盟 (ITU) 高级别研讨会**，协助坦桑尼亚信息部部长与 ITU 官员的对接工作。
+  在国际化协同方面，我曾作为部属事业单位国际化人才，核心支撑 2024 工信部-国际电信联盟 (ITU) 高级别研讨会，协助坦桑尼亚信息部部长与 ITU 官员的对接工作。
 
   工作之余，我是网易云音乐人，也是一名文学爱好者，热衷于小说写作与文学创作。
 
@@ -46,8 +46,8 @@ interests:
 
 # 教育经历：替换掉了斯坦福，换成了纽卡斯尔
 education:
-  - degree: 人机交互硕士 (MSc in Human-Computer Interaction)
-    institution: 英国纽卡斯尔大学 (Newcastle University)
+  - degree: 人机交互硕士
+    institution: 英国纽卡斯尔大学
     start: 2022-09-01 # 【请确认】大概时间，如果是1年制应该是17-18或18-19
     end: 2023-11-30
     summary: |
@@ -57,7 +57,7 @@ education:
       text: 查看学位证书
       url: # 
       icon: hero/document
-- degree: 软件工程学士 (BEng Software Engineering)
+- degree: 软件工程学士 
     institution: 平顶山学院
     start: 2014-09-01
     end: 2018-06-30
@@ -95,27 +95,27 @@ experience:
 # 技能栈 (Skills)：提炼了你的核心能力
 # -----------------------------------------------------------------------------
 skills:
-  - name: 核心竞争力 (Core Competencies)
+  - name: 核心竞争力
     items:
-      - label: 政务数字化转型 (G-End Strategy)
+      - label: 政务数字化转型
         level: 5  # 对应你的8个项目和90%覆盖率
-      - label: 复杂系统架构设计 (Complex System Design)
+      - label: 复杂系统架构设计 
         level: 5  # 对应你的复杂环境落地能力
-      - label: 国际化协同与外事支撑 (Global Liaison)
+      - label: 国际化协同与外事支撑
         level: 4  # 对应你的ITU会议经验和留学背景
 
   - name: 领域创新 (Domain & Innovation)
     items:
-      - label: AI 通识课程研发 (AI Curriculum Dev)
+      - label: AI 通识课程研发
         level: 4  # 对应你的高校教学经历
-      - label: 人机交互研究 (HCI Research)
+      - label: 人机交互研究
         level: 5  # 你的学术老本行
       - label: 跨部门资源整合
         level: 4
 
-  - name: 数据与技术洞察 (Data & Tech)
+  - name: 数据与技术洞察
     items:
-      - label: 数据驱动决策 (Data-Driven Decision Making)
+      - label: 数据驱动决策
         level: 4  # 替换掉 SQL/Tableau，强调决策能力
       - label: AIGC 应用与人机协作
         level: 4  # 结合你讲授AI课程的经历
