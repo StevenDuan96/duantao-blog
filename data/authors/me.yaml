@@ -104,7 +104,7 @@ skills:
       - label: 国际化协同与外事支撑
         level: 4  # 对应你的ITU会议经验和留学背景
 
-  - name: 领域创新 (Domain & Innovation)
+  - name: 领域创新
     items:
       - label: AI 通识课程研发
         level: 4  # 对应你的高校教学经历
@@ -123,9 +123,9 @@ skills:
 
 # 语言能力保留
 languages:
-  - name: 中文 (Chinese)
+  - name: 中文
     level: 5
     label: Native
-  - name: 英语 (English)
+  - name: 英语
     level: 4
     label: Professional (Academic & Business)
