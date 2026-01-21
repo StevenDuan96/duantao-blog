@@ -8,7 +8,7 @@ tags:
 date: 2024-05-01
 ---
 
-![项目展示图](featured.svg)
+![项目展示图](waste.png)
 
 ## 项目背景
 
